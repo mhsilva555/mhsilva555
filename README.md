@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Marcos Henrique</h1>
-<h3 align="center">Full Stack Developer | Laravel | Wordpress | ReactJS</h3>
+<h3 align="center">Full Stack Developer | PHP | Laravel | Wordpress | ReactJS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhsilva555&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="mhsilva555" /> </p>
 
