@@ -1,8 +1,7 @@
 <h1 align="center">Olá 👋, me chamo Marcos Henrique</h1>
 <h3 align="center">Full Stack Developer | PHP | Laravel | Wordpress | ReactJS</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhsilva555&label=Profile%20views&color=0e75b6&style=flat" alt="mhsilva555" /> </p>
-
+<br>
+<r>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhsilva555&theme=radical&locale=pt-BR" alt="mhsilva555" /></a> </p>
 
 - 🌱 Atualmente estou estudando: **Engenharia de Software, e também estudo PHP, Javascript, ReactJS, Wordpress**
