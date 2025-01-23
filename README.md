@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! 👋, me chamo Marcos Henrique</h1>
-<h3 align="center">Full Stack Developer | PHP | Laravel | Wordpress | ReactJS</h3>
+<h3 align="center">Full Stack Developer | PHP | Laravel | Wordpress | Vue.js</h3>
 <br>
 <r>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhsilva555&theme=radical&locale=pt-BR" alt="mhsilva555" /></a> </p>
